@@ -1,0 +1,105 @@
+﻿Waste column,ID,Brand,Name,NumberOfColours,Price,category
+,1,Woodland,Grey Sneakers for Men,1,2995,MEN
+,2,Woodland,Black high-top boots for women,1,6995,WOMEN
+,3,Woodland,Olive/black sneakers for men,1,3795,MEN
+,4,Woodland,Sand Sports Shoe for men,1,7995,MEN
+,5,Woodland,Blue sneakers for men,1,6995,MEN
+,6,Woodland,Light purple casual sneaker for women,1,6995,WOMEN
+,7,Woodland,Grey/Green Sports Shoe for men,1,7995,MEN
+,8,Woodland,Navy Slip-on shoe for men,1,2295,MEN
+,9,Woodland,Navy Slip-on shoes,1,2995,WOMEN
+,10,Woodland,Navy Casual sneaker for men,1,6995,MEN
+,11,Woodland,Dgrey Slip-on Shoe for Men,1,2795,MEN
+,12,Woodland,Blue/Grey Sneaker for men,1,2795,MEN
+,13,Woodland,Beige sock knit sneaker,1,5995,WOMEN
+,14,Woodland,Grey/Pink sneakers for women,1,6995,WOMEN
+,15,Woodland,Green casual sneaker for women,1,5995,WOMEN
+,16,Adidas,SUPERSTAR SHOES,2,8999,MEN
+,17,Adidas,SUPERSTAR SHOES,3,8999,WOMEN
+,18,Adidas,Samba OG Shoes,4,10999,MEN
+,19,Adidas,Samba OG Shoes,4,11999,WOMEN
+,20,Adidas,Galaxy 6 Shoes,2,6000,MEN
+,21,Adidas,Ultraboost Light,1,19999,MEN
+,22,Adidas,"Ultimashow Shoes
+",4,5599,MEN
+,23,Adidas,WIND RAISER SHOES,1,3599,MEN
+,24,Adidas,FLUIDFLOW 2.0 RUNNING SHOE,2,4299,MEN
+,25,Adidas,STUNICON SHOES,2,4299,MEN
+,26,Adidas,Ultraboost 1.0 Shoes,4,17999,MEN
+,27,Adidas,"ADI ZOOM SHOES
+",5,3299,MEN
+,28,Adidas,"RAYRUN SHOES
+",2,3999,WOMEN
+,29,Adidas,"HYPERON 1.0 SHOES
+",2,2999,MEN
+,30,Adidas,"Grand Court Cloudfoam Comfort Shoes
+",4,7999,MEN
+,31,Adidas,Pureboost 22 Shoes,2,11999,WOMEN
+,32,Adidas,Daily 3.0 Shoes,8,6599,MEN
+,33,Adidas,Ultraboost 1.0 Shoes,4,17999,MEN
+,34,Adidas,"Lite Racer Adapt 4.0 Cloudfoam Slip-On Shoes
+",5,6999,MEN
+,35,Adidas,FLODEAN SHOES,3,3299,MEN
+,36,Adidas,RAYRUN SHOES,2,3999,WOMEN
+,37,Adidas,"SHEENWALK SHOES
+",3,3599,WOMEN
+,38,Adidas,SOLARGLIDE 6 Shoes,5,13999,WOMEN
+,39,Adidas,"Predator Accuracy.3 Low Firm Ground Boots'
+",3,7999.5,MEN
+,40,Adidas,NMD_R1 Shoes,3,12999,MEN
+,41,Adidas,"AMPLIGY SHOES
+",3,4799,MEN
+,42,Adidas,"Ultimashow Shoes
+",4,5599,MEN
+,43,Adidas,Duramo 10 Shoes,3,6599,MEN
+,44,Adidas,FAZTCORTSHOES,2,2399.5,MEN
+,45,Adidas,Asweetrain Shoes,3,7999,MEN
+,46,Adidas,VS Pace 2.0 Shoes,7,4999,MEN
+,47,Adidas,Advantage Base Court Lifestyle Shoes,2,6599,MEN
+,48,Nike,Nike Dunk LowWomen's Shoes,1,8695,WOMEN
+,49,Nike,Nike Air Max 1Women's shoes,6,12795,WOMEN
+,50,Nike,Jordan Stadium 90Women's Shoes,4,12795,WOMEN
+,51,Nike,Nike Air Max SYSTMMen's Shoes,5,8595,MEN
+,52,Nike,Nike Air Trainer 1Men's shoes,1,11895,MEN
+,53,Nike,Nike Air Max SC SEWomen's Shoes,1,7495,WOMEN
+,54,Nike,Nike Air Force 1 '07 Pro TechMen's Shoes,3,13995,MEN
+,55,Nike,Nike Air Max 1Men's shoes,5,12795,MEN
+,56,Nike,Nike Blazer Low '77 VintageMen's Shoes,4,7195,MEN
+,57,Nike,Nike Air Max 1 PremiumMen's Shoes,1,14995,MEN
+,58,Nike,Nike Air Max PlusShoes,1,18395,MEN
+,59,Nike,Nike Air VaporMax Moc RoamMen's Shoes,1,19695,MEN
+,60,Columbia,Women's Slopeside Village™ Omni-Heat™ Mid Boot,2,5976,WOMEN
+,61,Columbia,Women's Facet™ 75 OutDry™ Shoe,2,8092.5,WOMEN
+,62,Columbia,Women's Flow Fremont,2,5602.5,WOMEN
+,63,Columbia,Women's Plateau™ Waterproof Shoe,2,4976.68,WOMEN
+,64,Columbia,Women's Facet™ 75 Mid OutDry™ Shoe,2,8715,WOMEN
+,65,Columbia,Men’s Fairbanks™ Low Shoe,4,5599.18,MEN
+,66,Columbia,Men's Firecamp™ Remesh Shoe,2,6889,MEN
+,67,Columbia,Men's Facet™ 75 Alpha OutDry™ Shoe,2,9960,MEN
+,68,Columbia,Men's Trailstorm™ Ascend Waterproof Shoe,2,5602.5,MEN
+,69,Columbia,Men's Plateau Venture™ Shoe - Wide,1,7470,MEN
+,72,Puma,PUMA x LAMELO BALL MB.03 Toxic Men's Basketball ShoesPurple Glimmer-Green Gecko,1,4252.57,MEN
+,73,Puma,Viz Runner Repeat Men's Running SneakersPuma Black-Puma White,3,4252.57,MEN
+,74,Puma,Viz Runner Repeat Wide Men's Running ShoesPuma Black-Puma White,2,3168.37,MEN
+,75,Puma,PUMA Serve Pro Men's SneakersPuma Black-Puma Black-Puma White-Puma Team Gold,2,3835.57,MEN
+,76,Puma,Astro Kick SL Men's SneakersPuma White-Puma Team Gold-Gray Violet,2,3835.57,MEN
+,77,Puma,Riaze Prowl Rainbow Women's SneakersPuma Black-Luminous Pink,2,3001.57,WOMEN
+,78,Puma,Star Vital Women's Training ShoesPUMA Black-PUMA Silver,5,3835.57,WOMEN
+,79,Puma,Star Vital Refresh Men's Running ShoesPUMA Navy-Fizzy Lime,3,3835.57,MEN
+,80,Puma,ST Runner v3 L Men's SneakersPuma White-Puma White-Gum,2,4252.57,MEN
+,81,Puma,Viz Runner Repeat Wide Men's Running ShoesPUMA White-PUMA Black,5,3835.57,MEN
+,82,Puma,Star Vital Refresh Men's Running ShoesPUMA Black-PUMA White,2,5837.17,MEN
+,83,Puma,Softride Enzo Evo Running ShoesPuma Black-CASTLEROCK,2,3418.57,MEN
+,84,Puma,Redon Bungee ShoesPuma Black-Puma White-High Risk Red,2,5086.57,WOMEN
+,85,Puma,Axelion Refresh Men's Running ShoesPUMA Black-Cool Dark Gray,2,3835.57,MEN
+,86,Puma,Star Vital Women's Training ShoesPuma Black-Rose Gold,5,4252.57,WOMEN
+,87,Puma,Pacer Future Men's SneakersPuma Black-Puma Black,2,4002.37,MEN
+,88,Skechers,Skechers Slip-ins: Ultra Flex 3.0 - Viewpoint,4,7999,MEN
+,89,Skechers,Skechers Slip-ins: Ultra Flex 3.0 - Brilliant,3,7499,WOMEN
+,90,Skechers,Skechers Slip-ins: Ultra Flex 3.0 - New Arc,2,7999,MEN
+,91,Skechers,ULTRA FLEX 3.0-COZY STREAK,2,7499,WOMEN
+,92,Skechers,ULTRA FLEX 3.0 - SMOOTH STEP,2,7999,MEN
+,93,Skechers,Skechers Slip-ins: Ultra Flex 3.0 - Glitter Me,2,6999,WOMEN
+,94,Skechers,AIR CUSHIONING,3,7999,MEN
+,95,Skechers,UNO - EVERYWEAR,3,6999,WOMEN
+,96,Skechers,MAX CUSHIONING ARCH FIT -ENIG,2,9499,MEN
